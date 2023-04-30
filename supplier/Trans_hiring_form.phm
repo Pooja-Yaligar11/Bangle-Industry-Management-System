@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<form name="form1" method="post" action="">
+  <table width="200" border="1">
+    <tr>
+      <td colspan="2">Transportation Hiring </td>
+    </tr>
+    <tr>
+      <td>Transportation Id </td>
+      <td><input name="transportation_id" type="text" id="transportation_id"></td>
+    </tr>
+    <tr>
+      <td>From Route </td>
+      <td><input name="from_route" type="text" id="from_route"></td>
+    </tr>
+    <tr>
+      <td>To Route </td>
+      <td><input name="to_route" type="text" id="to_route"></td>
+    </tr>
+    <tr>
+      <td>No Of Km </td>
+      <td><input name="no_of_km" type="text" id="no_of_km"></td>
+    </tr>
+    <tr>
+      <td>Product Id </td>
+      <td><input name="product_id" type="text" id="product_id"></td>
+    </tr>
+    <tr>
+      <td>Quantity</td>
+      <td><input name="quantity" type="text" id="quantity"></td>
+    </tr>
+    <tr>
+      <td>Date</td>
+      <td><input name="date" type="text" id="date"></td>
+    </tr>
+    <tr>
+      <td>Charge</td>
+      <td><input name="charge" type="text" id="charge"></td>
+    </tr>
+    <tr>
+      <td colspan="2"><input type="submit" name="Submit" value="Submit">
+      <input type="reset" name="Reset" value="Reset"></td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</form>
+</body>
+</html>
